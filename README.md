@@ -68,7 +68,7 @@
 |/|slash,divide,oblique|斜线,斜杠,除号|
 |//|slash-slash,comment|双斜线,注释符|
 |#|pound/hash|井号|
-|\\|backslash,sometimes escape|反斜线转义符,有时表示转义符或续行符|
+|&#092;|backslash,sometimes escape|反斜线转义符,有时表示转义符或续行符|
 |~|tilde|波浪符|
 |~|swung dash|代字号|
 |§|section; division|分节号|
